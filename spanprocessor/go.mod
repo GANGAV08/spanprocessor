@@ -1,4 +1,4 @@
-module github.com/GANGAV08/main/main
+module github.com/GANGAV08/spanprocessor/spanprocessor
 
 go 1.17
 

@@ -1,4 +1,4 @@
-package main
+package spanprocessor
 
 import (
 	"go.opentelemetry.io/collector/config"
